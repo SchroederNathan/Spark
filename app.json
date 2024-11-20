@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "habit-tracker",
-    "slug": "habit-tracker",
+    "name": "spark",
+    "slug": "spark",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "spark",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
