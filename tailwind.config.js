@@ -13,6 +13,7 @@ module.exports = {
         primary: "#699654",
         secondary: "#427d26",
         accent: "#35825c",
+        input: "#172112",
       },
 
       fontFamily: {
